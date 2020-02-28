@@ -1,6 +1,4 @@
-# Foobar
-
-Space Jumper
+# Space Jumper
 
 ## Installation
 

@@ -1,20 +1,27 @@
 fileFormatVersion: 2
 guid: 6cc23e044b2b0d8429483a455b33b731
-timeCreated: 1454162537
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: boss03_0
-    21300002: boss03_1
-    21300004: boss03_2
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: boss03_0
+  - first:
+      213: 21300002
+    second: boss03_1
+  - first:
+      213: 21300004
+    second: boss03_2
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -23,37 +30,60 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: boss03_0
+    - serializedVersion: 2
+      name: boss03_0
       rect:
         serializedVersion: 2
         x: 16
@@ -63,42 +93,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5, y: -0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 50.5, y: 183.7}
-        - {x: 6.5, y: 183.7}
-        - {x: -43.5, y: 163.7}
-        - {x: -93.5, y: 107.7}
-        - {x: -93.5, y: 80.7}
-        - {x: -90.5, y: 71.7}
-        - {x: -63.5, y: 71.7}
-        - {x: -33.5, y: 92.7}
-        - {x: -57.5, y: 73.7}
-        - {x: -73.5, y: 58.699997}
-        - {x: -64.5, y: 42.699997}
-        - {x: -44.5, y: 16.699997}
-        - {x: 52.5, y: 16.699997}
-        - {x: 93.5, y: 23.699997}
-        - {x: 93.5, y: 100.7}
-        - {x: 63.5, y: 167.7}
-      - - {x: 83.5, y: 119.7}
-        - {x: 86.5, y: 112.7}
-        - {x: 90.5, y: 109.7}
-        - {x: 93.5, y: 110.7}
-        - {x: 93.5, y: 113.7}
-        - {x: 88.5, y: 123.7}
-        - {x: 83.5, y: 123.7}
-      - - {x: 78.5, y: 117.7}
-        - {x: 80.5, y: 115.7}
-        - {x: 83.5, y: 116.7}
-        - {x: 83.5, y: 119.7}
-        - {x: 81.5, y: 121.7}
-        - {x: 78.5, y: 120.7}
-      - - {x: 73.5, y: 128.7}
-        - {x: 76.5, y: 129.7}
-        - {x: 76.5, y: 132.7}
-        - {x: 73.5, y: 133.7}
-        - {x: 71.5, y: 131.7}
-    - name: boss03_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss03_2
       rect:
         serializedVersion: 2
         x: 458
@@ -108,34 +114,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.81345606, y: 0.5585035}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28.678772, y: 113.944855}
-        - {x: 62.678772, y: 192.94485}
-        - {x: 62.678772, y: 207.94485}
-        - {x: 51.678772, y: 207.94485}
-        - {x: 28.678772, y: 194.94485}
-        - {x: 3.678772, y: 170.94485}
-        - {x: -18.321228, y: 115.944855}
-        - {x: -20.321228, y: 40.944855}
-        - {x: -17.321228, y: -90.055145}
-        - {x: -46.321228, y: -127.055145}
-        - {x: -166.32123, y: -149.05515}
-        - {x: -273.32123, y: -145.05515}
-        - {x: -273.32123, y: -252.05515}
-        - {x: -231.32123, y: -263.05515}
-        - {x: -40.321228, y: -263.05515}
-        - {x: 43.678772, y: -180.05515}
-        - {x: 53.678772, y: -45.055145}
-        - {x: 42.678772, y: -2.0551453}
-      - - {x: -72.32123, y: 152.94485}
-        - {x: -71.32123, y: 150.94485}
-        - {x: -68.32123, y: 150.94485}
-        - {x: -66.32123, y: 151.94485}
-        - {x: -66.32123, y: 154.94485}
-        - {x: -67.32123, y: 156.94485}
-        - {x: -69.32123, y: 156.94485}
-        - {x: -72.32123, y: 154.94485}
-    - name: boss03_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss03_1
       rect:
         serializedVersion: 2
         x: 225
@@ -145,43 +135,29 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5, y: -0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 50.5, y: 183.7}
-        - {x: 6.5, y: 183.7}
-        - {x: -43.5, y: 163.7}
-        - {x: -93.5, y: 107.7}
-        - {x: -93.5, y: 80.7}
-        - {x: -90.5, y: 71.7}
-        - {x: -63.5, y: 71.7}
-        - {x: -33.5, y: 92.7}
-        - {x: -57.5, y: 73.7}
-        - {x: -73.5, y: 58.699997}
-        - {x: -64.5, y: 42.699997}
-        - {x: -44.5, y: 16.699997}
-        - {x: 52.5, y: 16.699997}
-        - {x: 93.5, y: 23.699997}
-        - {x: 93.5, y: 100.7}
-        - {x: 63.5, y: 167.7}
-      - - {x: 83.5, y: 119.7}
-        - {x: 86.5, y: 112.7}
-        - {x: 90.5, y: 109.7}
-        - {x: 93.5, y: 110.7}
-        - {x: 93.5, y: 113.7}
-        - {x: 88.5, y: 123.7}
-        - {x: 83.5, y: 123.7}
-      - - {x: 78.5, y: 117.7}
-        - {x: 80.5, y: 115.7}
-        - {x: 83.5, y: 116.7}
-        - {x: 83.5, y: 119.7}
-        - {x: 81.5, y: 121.7}
-        - {x: 78.5, y: 120.7}
-      - - {x: 73.5, y: 128.7}
-        - {x: 76.5, y: 129.7}
-        - {x: 76.5, y: 132.7}
-        - {x: 73.5, y: 133.7}
-        - {x: 71.5, y: 131.7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

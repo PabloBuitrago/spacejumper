@@ -47,11 +47,9 @@ public class Puntuacion : MonoBehaviour {
     public AudioSource audio_game;
     public AudioSource audio_win;
 
-    AdScript_2 anuncios;
-
     void Awake()
     {
-        anuncios = GetComponent<AdScript_2>();
+        //anuncios = GetComponent<AdScript_2>();
     }
 
     void Start()
@@ -145,7 +143,7 @@ public class Puntuacion : MonoBehaviour {
 
                 if(EstadoJuego.estadoJuego.muertes % 5 == 0)
                 {
-                    anuncios.showInterstitialAd();
+                    //anuncios.showInterstitialAd();
                 }
             }
 

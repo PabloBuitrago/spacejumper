@@ -17,8 +17,6 @@ public class GameOver : MonoBehaviour {
 
     Pausa pausaScript;
 
-    public GameObject publicidad;
-
     public AudioSource audio_boton;
 
     void Awake()
@@ -62,8 +60,6 @@ public class GameOver : MonoBehaviour {
         pausa.SetActive(false);
         balas.SetActive(false);
         slider.SetActive(false);
-
-        publicidad.SetActive(true);
 
         //Iniciamos el trigger de gameOver del Animator.
         anim.SetTrigger("gameOver");

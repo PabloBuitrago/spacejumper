@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 302ca585744f9c840bbc6ee1a293f9c3
+timeCreated: 1453589500
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alien_lider_0
+    21300002: alien_lider_1
+    21300004: alien_lider_2
+    21300006: alien_lider_3
+    21300008: alien_lider_4
+    21300010: alien_lider_5
+    21300012: alien_lider_6
+    21300014: alien_lider_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alien_lider_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 31}
+        - {x: -19, y: 19}
+        - {x: -19, y: -27}
+        - {x: -18, y: -31}
+        - {x: 11, y: -31}
+        - {x: 19, y: -30}
+        - {x: 19, y: 31}
+    - name: alien_lider_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 88
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 31}
+        - {x: -19, y: 11}
+        - {x: -19, y: -23}
+        - {x: -14, y: -31}
+        - {x: 14, y: -31}
+        - {x: 19, y: -20}
+        - {x: 19, y: 31}
+    - name: alien_lider_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30.5}
+        - {x: -19, y: 17.5}
+        - {x: -19, y: -27.5}
+        - {x: -15, y: -30.5}
+        - {x: 19, y: -30.5}
+        - {x: 19, y: 30.5}
+    - name: alien_lider_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 88
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 30.5}
+        - {x: 1, y: 30.5}
+        - {x: -19, y: 18.5}
+        - {x: -19, y: -26.5}
+        - {x: -18, y: -30.5}
+        - {x: 18, y: -30.5}
+        - {x: 19, y: -25.5}
+    - name: alien_lider_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -19, y: -30.5}
+        - {x: 19, y: -30.5}
+        - {x: 19, y: 23.5}
+        - {x: 3, y: 30.5}
+    - name: alien_lider_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -19, y: -16.5}
+        - {x: -15, y: -30.5}
+        - {x: 19, y: -30.5}
+        - {x: 19, y: 21.5}
+        - {x: 12, y: 30.5}
+    - name: alien_lider_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 20
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 31}
+        - {x: -19, y: -20}
+        - {x: -14, y: -31}
+        - {x: 12, y: -31}
+        - {x: 19, y: -21}
+        - {x: 19, y: 18}
+        - {x: 10, y: 31}
+    - name: alien_lider_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 31}
+        - {x: -19, y: -17}
+        - {x: -12, y: -29}
+        - {x: -5, y: -31}
+        - {x: 19, y: -31}
+        - {x: 19, y: 27}
+        - {x: 17, y: 31}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

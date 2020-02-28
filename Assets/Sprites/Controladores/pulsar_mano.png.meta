@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 330e7deaf9668614cac5dd322f1f2146
+timeCreated: 1452681352
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pulsar_mano_0
+    21300002: pulsar_mano_2
+    21300004: pulsar_mano_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pulsar_mano_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 42.5}
+        - {x: -43.5, y: 36.5}
+        - {x: -43.5, y: -33.5}
+        - {x: -29.5, y: -42.5}
+        - {x: 43.5, y: -42.5}
+        - {x: 43.5, y: 40.5}
+        - {x: 40.5, y: 42.5}
+      - - {x: -6.5, y: 5.5}
+        - {x: -8.5, y: -0.5}
+        - {x: -8.5, y: -26.5}
+        - {x: -1.5, y: -42.5}
+        - {x: 3.5, y: -42.5}
+        - {x: 3.5, y: 5.5}
+    - name: pulsar_mano_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 199
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: -103}
+        - {x: -99.5, y: -102}
+        - {x: -99.5, y: -108}
+        - {x: -96.5, y: -112}
+        - {x: -90.5, y: -113}
+        - {x: -76.5, y: -113}
+        - {x: -76.5, y: -111}
+        - {x: -84.5, y: -106}
+      - - {x: -80.5, y: 113}
+        - {x: -99.5, y: 63}
+        - {x: -99.5, y: -56}
+        - {x: 8.5, y: -106}
+        - {x: 36.5, y: -106}
+        - {x: 99.5, y: -81}
+        - {x: 99.5, y: 60}
+        - {x: 46.5, y: 113}
+      - - {x: -75.5, y: 44}
+        - {x: -81.5, y: 33}
+        - {x: -81.5, y: 27}
+        - {x: -80.5, y: 26}
+        - {x: -77.5, y: 26}
+        - {x: -63.5, y: 37}
+        - {x: -63.5, y: 44}
+      - - {x: -95.5, y: 36}
+        - {x: -99.5, y: 34}
+        - {x: -99.5, y: 30}
+        - {x: -93.5, y: 30}
+        - {x: -91.5, y: 32}
+        - {x: -91.5, y: 35}
+        - {x: -94.5, y: 36}
+    - name: pulsar_mano_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 131
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

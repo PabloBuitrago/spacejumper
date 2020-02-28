@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: df07dfebe7fcfa2479cf2ddd00c5b9b6
+timeCreated: 1457895630
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boss04_0
+    21300002: boss04_1
+    21300004: boss04_2
+    21300006: boss04_3
+    21300008: boss04_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boss04_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 81
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 46.5}
+        - {x: -73, y: -38.5}
+        - {x: -66, y: -46.5}
+        - {x: 61, y: -46.5}
+        - {x: 73, y: -34.5}
+        - {x: 73, y: 46.5}
+    - name: boss04_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 81
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 46.5}
+        - {x: -73, y: -38.5}
+        - {x: -66, y: -46.5}
+        - {x: 61, y: -46.5}
+        - {x: 73, y: -34.5}
+        - {x: 73, y: 46.5}
+    - name: boss04_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 81
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 46.5}
+        - {x: -73, y: -38.5}
+        - {x: -66, y: -46.5}
+        - {x: 61, y: -46.5}
+        - {x: 73, y: -34.5}
+        - {x: 73, y: 46.5}
+    - name: boss04_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 812
+        height: 71
+      alignment: 9
+      pivot: {x: 0.9985303, y: 0.72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -810.80664, y: 19.879997}
+        - {x: -810.80664, y: -51.120003}
+        - {x: 1.1933594, y: -51.120003}
+        - {x: 1.1933594, y: 19.879997}
+    - name: boss04_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 46.5}
+        - {x: -73, y: -27.5}
+        - {x: -53, y: -45.5}
+        - {x: 68, y: -45.5}
+        - {x: 73, y: -41.5}
+        - {x: 73, y: 46.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
